@@ -1,4 +1,4 @@
-# Simple Income Statement Dashboard Using Power BI 📊
+#  Income Statement Dashboard Using Power BI 📊
 
 Welcome to the Simple Income Statement Dashboard project repository! This project features an income statement dashboard developed using Power BI. The dashboard offers visualizations and insights based on Microsoft's income statement data for FY-21 and FY-22, obtained from the official website's financial statements section.
 
